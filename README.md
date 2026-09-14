@@ -175,27 +175,6 @@ Yes. It runs before any page cache is written. Clear your page cache once after 
 
 Font Awesome, Elementor Icons, Dashicons, IcoMoon, Ionicons, and other icon libraries are automatically excluded. They load as separate files exactly as before.
 
-## File structure
-
-```
-jacker-css-merges-manager/
-└── jacker-css-merges-manager.php
-```
-
-The plugin is intentionally a single PHP file. No build step, no Composer, no npm.
-
-## Contributing
-
-Issues and pull requests are welcome at github.com/JackerArchitect/jacker-css-merges-manager.
-
-Please follow WordPress Coding Standards:
-
-- Tabs for indentation
-- Yoda conditions in PHP
-- `esc_html__()`, `esc_attr()`, `esc_url()` on all output
-- Nonce verification on every admin action
-- Prefix everything with `jcssmm_`
-
 ## License
 
 GPL-2.0-or-later. See LICENSE.
