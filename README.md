@@ -7,6 +7,8 @@
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-777bb4.svg)](https://www.php.net/)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/JackerArchitect/jacker-css-merges-manager/releases)
 
+**Website:** https://jackerteo.com/plugin/jacker-css-merges-manager
+
 WordPress performance is not lost to big files. It is lost to the number of round trips. JCSSMM combines every enqueued CSS file on a page into one request. Icon fonts are auto-excluded, each page gets its own cache, and JavaScript is never touched.
 
 **Free. Open source. GPL-2.0+. No API. No server changes. No premium version.**
