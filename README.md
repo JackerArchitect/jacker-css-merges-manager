@@ -70,20 +70,10 @@ Same CSS bytes. One network round trip instead of twenty.
 
 ## Installation
 
-### From GitHub
-
 1. Download the latest `jacker-css-merges-manager.zip` from Releases.
 2. In WordPress: **Plugins → Add New → Upload Plugin**.
 3. Select the ZIP, install, and activate.
 4. Merging starts automatically on the next page load.
-
-### From source
-
-```bash
-git clone https://github.com/JackerArchitect/jacker-css-merges-manager.git
-```
-
-Copy the folder into `wp-content/plugins/` and activate via the WordPress admin.
 
 ## Usage
 
